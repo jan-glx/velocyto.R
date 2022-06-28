@@ -34,4 +34,5 @@ Suggests:
   edgeR,
   h5
 LinkingTo: Rcpp, RcppArmadillo
+BiocViews: 
 RoxygenNote: 6.1.0
